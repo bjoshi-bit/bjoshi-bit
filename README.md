@@ -36,7 +36,7 @@ birajjoshi2013@gmail.com
      <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
 </p>
 
-<h2 align=center>Softwares<h2>
+<h2 align=center>Softwares & Tools<h2>
 
 <p align=center> 
     <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>
