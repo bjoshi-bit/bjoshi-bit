@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I’m Biraj👋</h1>
 
-- 📖 I’m interested in **Coding, Internet Security, Music and Design**
+- 📖 I’m interested in **Coding, Internet Security, Music, and Design**
 - 🌱 I’m currently learning **Cyber Security**
 - 🚀 I’m looking to collaborate on coding projects that seeks to **improve daily actions** and increase **privacy**.
 
