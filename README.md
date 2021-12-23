@@ -41,8 +41,6 @@ birajjoshi2013@gmail.com
 <h2 align=center>Softwares & Tools<h2>
 
 <p align=center> 
-    <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>
-    <img src='https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green'>
     <img src='https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white'>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src = https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
